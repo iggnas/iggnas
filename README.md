@@ -3,7 +3,7 @@
 
 - I’m currently learning **C++ and Linux**
 
-- How to reach me **.gg/YHBtRKYCFG**
+- **.gg/YHBtRKYCFG**
 
 <p align="left">
 </p>
