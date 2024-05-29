@@ -3,7 +3,7 @@
 
 - I’m currently learning **C++ and trying to switch to Linux**
 
-- **[discord](discord.gg/YHBtRKYCFG)**
+- **[Discord server](discord.gg/YHBtRKYCFG)**
 
 <p align="left">
 </p>
